@@ -2,9 +2,8 @@
 
 This is a solution to the [Four card feature section](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Overview
+# Overview
 
-**I did this solution without figma design because i do not have PRO Plan on Frontend Mentor, so this was very hard to make it PIXEL PERFECT**
 
 ### Links
 
