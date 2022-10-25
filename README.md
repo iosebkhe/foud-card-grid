@@ -8,7 +8,7 @@ This is a solution to the [Four card feature section](https://www.frontendmentor
 ### Links
 
 - Solution URL: [Click here](https://www.frontendmentor.io/solutions/four-card-feature-section-with-css-grid-and-flexbox-rJ4_csF4q)
-- Live Site URL: [Click here](https://iosebkhe.github.io/four-card-feature-section/)
+- Live Site URL: [Click here](https://foudcardgrid-iosebkhe.netlify.app/)
 
 - Semantic HTML5 markup
 - CSS custom properties
